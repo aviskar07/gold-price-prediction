@@ -1,0 +1,1 @@
+This project aims to predict gold prices based on various financial market indicators using Machine Learning regression techniques. The goal is to develop a model that can accurately forecast gold price trends, assisting in financial analysis and decision-making.
